@@ -21,7 +21,7 @@
     "json forms",
     "form library"
   ],
-  "main": "dist/formly.js",
+  "main": "dist/formly.min.js",
   "license": "MIT",
   "scripts": {
     "build:dist": "webpack --progress --colors --set-env-NODE_ENV=development",
