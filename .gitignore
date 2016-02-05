@@ -10,5 +10,4 @@ nohup.out
 *.ignored.*
 *.ignored/
 *.ignored
-dist
 
